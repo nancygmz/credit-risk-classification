@@ -30,7 +30,7 @@ Next, I imported the RandomOverSampler module from imblearn and fit it to the or
 - Calculate the accuracy score of the model.
 - Generate a confusion matrix.
 - Print the classification report.
-<img width "700" src="https://github.com/nancygmz/credit-risk-classification/blob/main/Credit_Risk/Resources/model%202.png">
+<img width="700" src="https://github.com/nancygmz/credit-risk-classification/blob/main/Credit_Risk/Resources/model%202.png">
 
 ## Summary
 In summary, Model 2 shows better performance in terms of precision and recall for high-risk loans, outperforming Model 1. However, it demonstrates slightly lower precision and recall for healthy loans. Nevertheless, considering the higher accuracy rate for high-risk loans and the overall trend, Model 2 is a more reliable choice for credit risk prediction.
